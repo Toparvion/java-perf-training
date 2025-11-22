@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Владимир Плизга
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
@@ -10,7 +10,7 @@ first_name: Shiung Wu
 last_name: Chien
 
 # Pronouns (optional)
-pronouns: she/her
+pronouns: he/him
 
 # Status emoji
 status:

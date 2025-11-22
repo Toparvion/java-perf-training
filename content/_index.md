@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Тренинги'
 date: 2023-10-24
 type: landing
 
@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Тренинги по производительности Java приложений
+      text: 🧱 Коротко. Ясно. По делу.  🧱
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
