@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    description: 'Тренинги по оптимизации производительности Java приложений от экспертов с многолетним опытом.'
+    # twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -39,7 +39,7 @@ header:
       filename: 'logo.svg'
     button:
       enable: true
-      text: 'Get Started'
+      text: 'Записаться'
       url: 'https://hugoblox.com/templates/'
     show_search: true
     show_theme_chooser: true
@@ -47,7 +47,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} В. Плизга, А. Рагозин'
 
 # Localization
 locale:
